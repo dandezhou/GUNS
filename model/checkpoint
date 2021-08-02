@@ -1,0 +1,2 @@
+model_checkpoint_path: "noise_generator"
+all_model_checkpoint_paths: "noise_generator"
